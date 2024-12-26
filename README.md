@@ -1,11 +1,11 @@
 **Whiteboard App**  
-Welcome to Whiteboard, a React-based application that allows you to create diagrams and sketches using various tools like brush, line, rectangle, circle, arrow, text, eraser, and undo/redo functionalities, among others. The app incorporates several external libraries to enhance its capabilities.
+Welcome to Whiteboard, a React-based application that allows you to create diagrams and sketches using various tools like brush, line, rectangle, circle, arrow, text, eraser, and undo/redo functionalities. The app incorporates several external libraries to enhance its capabilities.
 
 **Features**  
 - **Brush Tool**: Adjust the brush size and color for drawing.  
 - **Line Tool**: Select stroke color and width for line drawing.  
-- **Rectangle Tool**: Draw rectangles with customizable stroke and fill colors, as well as size.  
-- **Circle Tool**: Create circles with adjustable stroke, fill colors, and size.  
+- **Rectangle Tool**: Draw rectangles with customizable stroke and fill colors and sizes.  
+- **Circle Tool**: Create circles with adjustable strokes, fill colors, and sizes.  
 - **Arrow Tool**: Design arrows with customizable color and stroke width.  
 - **Eraser Tool**: Erase parts of your drawing with an adjustable size.  
 - **Text Tool**: Add text using the Caveat font from Google Fonts.  
@@ -19,9 +19,8 @@ Welcome to Whiteboard, a React-based application that allows you to create diagr
 - **RoughJS**: Adds a rough pencil effect to drawings.  
 - **html2canvas**: Enables exporting the canvas as a PNG image.
 
-## Deployment
 
-This app is deployed on Vercel and can be accessed at [https://asrwhiteboard.vercel.app/](https://asrwhiteboard.vercel.app/).
+This app is deployed on Vercel and can be accessed at (https://whiteboard-project-blue.vercel.app/).
 
 ## Running Locally
 

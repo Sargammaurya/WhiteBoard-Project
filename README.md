@@ -20,4 +20,4 @@ Welcome to Whiteboard, a React-based application that allows you to create diagr
 - **html2canvas**: Enables exporting the canvas as a PNG image.
 
 
-This app is deployed on Vercel and can be accessed at (https://whiteboard-project-blue.vercel.app/).
+This app is deployed on Vercel and can be accessed at (https://whiteboard-project-2dee0tx3j-sargam-mauryas-projects-dc27cacb.vercel.app/).

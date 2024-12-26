@@ -21,12 +21,3 @@ Welcome to Whiteboard, a React-based application that allows you to create diagr
 
 
 This app is deployed on Vercel and can be accessed at (https://whiteboard-project-blue.vercel.app/).
-
-## Running Locally
-
-To run this project locally, follow these steps:
-
-1. Clone the repository:
-   ```bash
-   git clone <repository-url>
-   cd whiteboard
